@@ -1,3 +1,4 @@
+![curioushack_banner](https://github.com/CuriousHack/Curioushack/blob/main/social-banner.jpeg?raw=true")
 <h1 align="center">Hi 👋, I'm Akande Lateef</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
