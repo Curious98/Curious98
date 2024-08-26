@@ -1,5 +1,5 @@
 ![curioushack_banner](https://github.com/CuriousHack/Curioushack/blob/main/social-banner.jpeg?raw=true")
-<h1 align="center">Hi 👋, I'm Akande Lateef</h1>
+<h1 align="center">Hi <img src="https://github.com/CuriousHack/Curioushack/blob/main/wave.gif?raw=true" width="30px" />, I'm Akande Lateef</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 - 🔭 I’m currently working on **a strategy to seamlessly incorporate software engineering principles into the realm of Agriculture.**
